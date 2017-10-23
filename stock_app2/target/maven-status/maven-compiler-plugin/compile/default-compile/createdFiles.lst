@@ -1,0 +1,13 @@
+com\calypso\finance\stock_app\service\StockService.class
+com\calypso\finance\stock_app\repository\UserRepository.class
+com\calypso\finance\stock_app\model\PersonPersistence.class
+com\calypso\finance\stock_app\controller\RegistrationController.class
+com\calypso\finance\stock_app\service\RegisterService.class
+com\calypso\finance\stock_app\controller\StockController.class
+com\calypso\finance\stock_app\model\UserPersistence.class
+com\calypso\finance\stock_app\repository\PersonRepository.class
+com\calypso\finance\stock_app\repository\StockRepository.class
+com\calypso\finance\stock_app\service\LoginService.class
+com\calypso\finance\stock_app\controller\LoginController.class
+com\calypso\finance\stock_app\App.class
+com\calypso\finance\stock_app\model\StockPersistence.class
